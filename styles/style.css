@@ -1,0 +1,56 @@
+html, body {
+  margin: 10px;
+  padding: 0;
+}
+
+html {
+  font-family: "Calendas Plus", "Georgia", serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #313131;
+}
+
+blockquote {
+  padding: 8px 16px;
+  margin: 13px 0;
+  color: #7a7a7a;
+  border-left: 4px solid #b3b3ff; 
+}
+
+.header img {
+	float: left;
+	width: 130px;
+	height: 108px;
+}
+
+.header h1 {
+	position: relative;
+	top: 28px;
+	left: 10px;
+}
+
+#wrapper {
+	width: 50%;
+	margin: 10px auto;
+	border: 1px solid black;
+	border-radius: 25px;
+    padding: 20px; 
+}
+
+#voting {
+	display: inline-block;
+	floating: right;
+	position: relative;
+}
+
+#votes {
+	display: inline-block;
+	
+}
+
+
+
+
